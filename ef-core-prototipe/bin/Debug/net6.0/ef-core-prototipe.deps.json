@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ef-core-prototipe/1.0.0": {
+        "runtime": {
+          "ef-core-prototipe.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ef-core-prototipe/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

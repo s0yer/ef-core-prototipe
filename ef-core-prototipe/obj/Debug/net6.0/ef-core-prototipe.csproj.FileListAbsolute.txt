@@ -1,0 +1,15 @@
+C:\Users\jadson.oliveira\Desktop\workspace_jadson\ef-core-prototipe\ef-core-prototipe\bin\Debug\net6.0\ef-core-prototipe.exe
+C:\Users\jadson.oliveira\Desktop\workspace_jadson\ef-core-prototipe\ef-core-prototipe\bin\Debug\net6.0\ef-core-prototipe.deps.json
+C:\Users\jadson.oliveira\Desktop\workspace_jadson\ef-core-prototipe\ef-core-prototipe\bin\Debug\net6.0\ef-core-prototipe.runtimeconfig.json
+C:\Users\jadson.oliveira\Desktop\workspace_jadson\ef-core-prototipe\ef-core-prototipe\bin\Debug\net6.0\ef-core-prototipe.dll
+C:\Users\jadson.oliveira\Desktop\workspace_jadson\ef-core-prototipe\ef-core-prototipe\bin\Debug\net6.0\ef-core-prototipe.pdb
+C:\Users\jadson.oliveira\Desktop\workspace_jadson\ef-core-prototipe\ef-core-prototipe\obj\Debug\net6.0\ef-core-prototipe.csproj.AssemblyReference.cache
+C:\Users\jadson.oliveira\Desktop\workspace_jadson\ef-core-prototipe\ef-core-prototipe\obj\Debug\net6.0\ef-core-prototipe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jadson.oliveira\Desktop\workspace_jadson\ef-core-prototipe\ef-core-prototipe\obj\Debug\net6.0\ef-core-prototipe.AssemblyInfoInputs.cache
+C:\Users\jadson.oliveira\Desktop\workspace_jadson\ef-core-prototipe\ef-core-prototipe\obj\Debug\net6.0\ef-core-prototipe.AssemblyInfo.cs
+C:\Users\jadson.oliveira\Desktop\workspace_jadson\ef-core-prototipe\ef-core-prototipe\obj\Debug\net6.0\ef-core-prototipe.csproj.CoreCompileInputs.cache
+C:\Users\jadson.oliveira\Desktop\workspace_jadson\ef-core-prototipe\ef-core-prototipe\obj\Debug\net6.0\ef-core-prototipe.dll
+C:\Users\jadson.oliveira\Desktop\workspace_jadson\ef-core-prototipe\ef-core-prototipe\obj\Debug\net6.0\refint\ef-core-prototipe.dll
+C:\Users\jadson.oliveira\Desktop\workspace_jadson\ef-core-prototipe\ef-core-prototipe\obj\Debug\net6.0\ef-core-prototipe.pdb
+C:\Users\jadson.oliveira\Desktop\workspace_jadson\ef-core-prototipe\ef-core-prototipe\obj\Debug\net6.0\ef-core-prototipe.genruntimeconfig.cache
+C:\Users\jadson.oliveira\Desktop\workspace_jadson\ef-core-prototipe\ef-core-prototipe\obj\Debug\net6.0\ref\ef-core-prototipe.dll
